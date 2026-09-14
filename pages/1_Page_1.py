@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title("Page 1")
-st.write("This is a placeholder for Page 1.")
-st.info("You can customize this page by editing `pages/1_Page_1.py`.")
+st.title("Page 1 - Overview")
+st.write("Welcome to the updated Page 1! This placeholder content confirms that your changes are being reflected.")
+st.success("Page 1 updated successfully.")
